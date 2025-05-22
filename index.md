@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Turn on GitHub Pages <只有在 issue、PR 或评论中的任务清单才是交互式的在普通 Markdown 文件（如 README.md）中，虽然显示的是复选框，但不能直接点击操作，只能手动修改 [ ] 或 [x]>
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
